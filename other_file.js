@@ -1,1 +1,1 @@
-console.log(name)
+r index = require("./index.js")
